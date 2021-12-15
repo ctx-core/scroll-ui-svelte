@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.0.2
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 1.0.1
 
 ### Patch Changes
