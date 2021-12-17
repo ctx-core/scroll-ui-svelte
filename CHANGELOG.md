@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.0.7
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 1.0.6
 
 ### Patch Changes
