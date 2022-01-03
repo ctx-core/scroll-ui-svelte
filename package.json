@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/scroll-ui-svelte",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"description": "ctx-core scroll",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/scroll": "workspace:^15.0.7",
+		"@ctx-core/scroll": "workspace:^15.0.8",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
