@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.0.33
+
+### Patch Changes
+
+- fix: @ctx-core/\* dependencies
+
 ## 1.0.32
 
 ### Patch Changes
