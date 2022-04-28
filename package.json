@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/scroll-ui-svelte",
-	"version": "1.0.36",
+	"version": "1.0.37",
 	"description": "ctx-core scroll",
 	"keywords": [
 		"ctx-core",
@@ -33,11 +33,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/scroll": "^17.0.15",
+		"@ctx-core/scroll": "^17.0.16",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.172",
+		"@swc/core": "^1.2.173",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.47.0",
 		"svelte-preprocess": "^4.10.6",
