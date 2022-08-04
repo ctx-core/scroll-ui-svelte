@@ -1,6 +1,6 @@
 <script lang="ts">
-import { onMount, onDestroy, createEventDispatcher } from 'svelte'
 import { out_is_active_, out_is_visible_ } from '@ctx-core/scroll'
+import { createEventDispatcher, onDestroy, onMount } from 'svelte'
 const dispatch = createEventDispatcher()
 export let terminal:HTMLElement|null = null
 let getBoundingClientRect = default_getBoundingClientRect, root:HTMLDivElement|null = null,

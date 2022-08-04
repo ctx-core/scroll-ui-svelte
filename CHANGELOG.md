@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.0.43
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 1.0.42
 
 ### Patch Changes
