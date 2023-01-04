@@ -47,5 +47,8 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"sideEffects": false
+	"sideEffects": false,
+	"dependencies": {
+		"svelte": "^3.55.0"
+	}
 }
