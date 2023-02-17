@@ -1,2 +1,1 @@
-import 'svelte'
-export * as Sticky_Scroll from './Sticky_Scroll'
+export * from './Sticky_Scroll/index.js'
