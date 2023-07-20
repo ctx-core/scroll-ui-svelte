@@ -49,6 +49,6 @@
 	},
 	"sideEffects": false,
 	"dependencies": {
-		"svelte": "^4.0.5"
+		"svelte": "^4.1.0"
 	}
 }
