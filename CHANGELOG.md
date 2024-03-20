@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.2.168
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 1.2.167
 
 ### Patch Changes

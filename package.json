@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/scroll-ui-svelte",
-	"version": "1.2.167",
+	"version": "1.2.168",
 	"description": "ctx-core scroll",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/scroll-ui-svelte.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-scroll-ui-svelte@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -42,7 +46,7 @@
 		"svelte": "^4.2.12"
 	},
 	"devDependencies": {
-		"@ctx-core/scroll": "^18.0.90",
+		"@ctx-core/scroll": "^18.0.91",
 		"@sveltejs/adapter-auto": "^3.1.1",
 		"@sveltejs/kit": "^2.5.4",
 		"c8": "^9.1.0",
