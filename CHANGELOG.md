@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.2.187
+
+### Patch Changes
+
+- @ctx-core/scroll: ^18.0.107 -> ^18.0.108
+
 ## 1.2.186
 
 ### Patch Changes

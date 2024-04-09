@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/scroll-ui-svelte",
-	"version": "1.2.186",
+	"version": "1.2.187",
 	"description": "ctx-core scroll",
 	"keywords": [
 		"ctx-core",
@@ -46,7 +46,7 @@
 		"svelte": "^4.2.12"
 	},
 	"devDependencies": {
-		"@ctx-core/scroll": "^18.0.107",
+		"@ctx-core/scroll": "^18.0.108",
 		"@sveltejs/adapter-auto": "^3.2.0",
 		"@sveltejs/kit": "^2.5.5",
 		"c8": "^9.1.0",
