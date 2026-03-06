@@ -1,5 +1,11 @@
 # @ctx-core/scroll-ui-svelte
 
+## 1.2.240
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 1.2.239
 
 ### Patch Changes
